@@ -1,5 +1,5 @@
 #include <stdio.h>
-double f(double n, ...);
+
 double min(double n, ...);
 
 /*Написать функцию с переменным числом параметров, которая ищет минимум среди n
